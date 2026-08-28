@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Team Directory Game</string>
+    <string name="find_member">Find %1$s</string>
+    <string name="correct_answer">Correct! Next teammate…</string>
+    <string name="try_again">Try again — find %1$s</string>
+</resources>
